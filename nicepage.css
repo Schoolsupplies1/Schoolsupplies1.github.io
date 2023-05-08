@@ -41371,22 +41371,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
- .u-header {
-  background-image: none;
-}
-
 .u-header .u-sheet-1 {
   min-height: 55px;
 }
 
 .u-header .u-menu-1 {
-  margin: 0 25px 0 auto;
+  margin: 8px 25px 7px auto;
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: 0px;
   font-weight: 700;
+  font-size: 1rem;
   text-transform: uppercase;
 }
 
@@ -41397,6 +41392,10 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     margin-right: 25px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
