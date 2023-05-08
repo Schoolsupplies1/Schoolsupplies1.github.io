@@ -41371,14 +41371,23 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
- .u-header {
-  background-image: none;
-}
-
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 96px;
 }
 
+.u-header .u-menu-1 {
+  margin: 20px 20px 20px auto;
+}
+
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+@media (max-width: 1199px) {
+  .u-header .u-menu-1 {
+    margin-right: 20px;
+  }
+}
 
 
 
