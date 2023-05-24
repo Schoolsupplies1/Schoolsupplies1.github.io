@@ -41403,7 +41403,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 914px;
+  min-height: 803px;
 }
 
 .u-footer .u-layout-wrap-1 {
@@ -41412,7 +41412,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-1 {
-  min-height: 530px;
+  min-height: 420px;
 }
 
 .u-footer .u-container-layout-1 {
@@ -41439,7 +41439,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-2 {
-  min-height: 530px;
+  min-height: 420px;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
 }
@@ -41518,7 +41518,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-wrap-2 {
-  margin-top: 50px;
+  margin-top: 49px;
   margin-bottom: 49px;
 }
 
@@ -41584,11 +41584,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-1 {
-    min-height: 437px;
+    min-height: 346px;
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 437px;
+    min-height: 346px;
   }
 
   .u-footer .u-list-1 {
